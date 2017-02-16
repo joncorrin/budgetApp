@@ -7,13 +7,21 @@ how much each is in percent of their total budget.
 
 This app is built on Javascript using:
 +Basic Javascript
+
   ++Event handlers
+
   ++Event listeners
+
   ++Functions
+
   ++Contructor functions
+
   ++Immediately invoking function expressions
+
   ++function expressions
+
   ++Callback functions
+  
   ++Modular architecture
 
 +Basic HTML & CSS
