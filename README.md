@@ -6,6 +6,7 @@ how much each is in percent of their total budget.
 #How this is built:
 
 This app is built on Javascript using:
+
 +Basic Javascript
 
   ++Event handlers
@@ -21,7 +22,7 @@ This app is built on Javascript using:
   ++function expressions
 
   ++Callback functions
-  
+
   ++Modular architecture
 
 +Basic HTML & CSS
